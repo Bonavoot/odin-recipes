@@ -1,0 +1,1 @@
+odin -recipes will be a basic recipe website created for reinforcing what i've learned thus far. This will be done purely in HTML.
